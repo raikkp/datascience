@@ -1,2 +1,2 @@
 # datascience
-Übungen
+Übungen für IBM Data Science
